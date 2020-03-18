@@ -25,30 +25,30 @@
         "price": "35.000"
       }
     ],
-    "shirts": [
+    "diamonds": [
       {
-        "name": "Shirt 1",
-        "price": "10.000"
+        "name": "Paket 1",
+        "price": "50.000"
       },
       {
-        "name": "Shirt 2",
-        "price": "15.000"
+        "name": "Paket 2",
+        "price": "150.000"
       },
       {
-        "name": "Shirt 3",
-        "price": "20.000"
+        "name": "Paket 3",
+        "price": "200.000"
       },
       {
-        "name": "Shirt 4",
-        "price": "25.000"
+        "name": "Paket 4",
+        "price": "250.000"
       },
       {
-        "name": "Shirt 5",
-        "price": "30.000"
+        "name": "Paket 5",
+        "price": "300.000"
       },
       {
-        "name": "Shirt 6",
-        "price": "35.000"
+        "name": "Paket 6",
+        "price": "305.000"
       }
     ],
     "pants": [
